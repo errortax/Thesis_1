@@ -34,3 +34,10 @@
 
 For more details, refer to the full paper:  
 🔗 [Preprints.org - Churn Prediction Review](https://www.preprints.org/manuscript/202503.1969/v2)  
+
+#### For business analysis : https://link.springer.com/article/10.1186/s40537-021-00500-3#Tab6
+Extract hidden customer insights to support decision-making and enhance customer relationship management (CRM).
+
+Method:
+- Customer Segmentation: Used K-means clustering to group customers into distinct clusters.
+- Behavior Analysis: Analyzed patterns within each cluster to identify churn risks.
