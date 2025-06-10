@@ -1,6 +1,11 @@
 # Review of Churn Prediction Models  
 **Paper:** [Advancements in Machine Learning for Customer Churn Prediction](https://www.preprints.org/manuscript/202503.1969/v2)  
 
+# Papers that We will be following for further writing 
+**1 : ** [Customer_Churn_Prediction_Using_Machine_Learning_Approaches](https://www.researchgate.net/publication/369770677_Customer_Churn_Prediction_Using_Machine_Learning_Approaches)
+**2 : ** [Explainable_machine_learning_models_applied_to_predicting_customer_churn](https://www.researchgate.net/profile/Ikhlass-Boukrouh/publication/386553028_Explainable_machine_learning_models_applied_to_predicting_customer_churn_for_e-commerce/links/67561f08ef2dc67228b50397/Explainable-machine-learning-models-applied-to-predicting-customer-churn-for-e-commerce.pdf)
+
+
 ## Challenges and Limitations in Churn Prediction  
 
 ### 1. Class Imbalance  
